@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 60px 20px 20px 20px;
+  font-family: "Lobster", cursive;
+  background-color: #e0e0d2;
+  font-size: 30px;
+  color: #f8f5fa;
+  text-align: center;
+  text-shadow: 1px 1px 2px rgb(61, 61, 61);
+
+  background-image: url("../images/map2.jpg");
+  background-size: cover;
+}
+
+.form-input {
+  margin-bottom: 35px;
+  padding-left: 15px;
+  padding-right: 10px;
+  height: 40px;
+  min-width: 300px;
+  border-radius: 10px;
+  border: transparent;
+  outline: none;
+  box-shadow: 1px 1px 2px black;
+  font-size: 30px;
+}
+
+.js-card-container {
+  text-align: left;
+}
+
+.card-list--countries {
+  width: 50%;
+  margin: 0 auto;
+  /* background-color: aliceblue; */
+}
+
+/* .card-item--country {
+  margin: 0;
+} */
+
+.card-country {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.country-information {
+  margin-right: 20px;
+}
+
+.card-title {
+  text-align: center;
+  margin: 0;
+  margin-bottom: 25px;
+}
+
+.card-flag {
+  margin-left: 100px;
+}

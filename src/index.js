@@ -16,6 +16,18 @@
 
 // const app = document.querySelector('#root')
 // app.append(logo, heading)
-import './js/fetch';
+// import './js/fetch';
+import './js/fetchCountries.js';
+import './styles/styles.css';
+// import { alert, defaultModules } from '@pnotify/core';
+// import '@pnotify/core/dist/PNotify.css';
+// import * as PNotifyMobile from '@pnotify/mobile';
+// import '@pnotify/mobile/dist/PNotifyMobile.css';
+
+// defaultModules.set(PNotifyMobile, {});
+
+// alert('Notice me, senpai!');
+// const debounce = require('lodash.debounce');
+// console.log(debounce);
 
 // var template = require("./file.handlebars");
