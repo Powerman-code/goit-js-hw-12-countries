@@ -1,3 +1,6 @@
+import './js/Countries.js';
+import './styles/styles.css';
+
 // // Test import of a JavaScript function
 // import {example} from './js/example'
 
@@ -17,8 +20,7 @@
 // const app = document.querySelector('#root')
 // app.append(logo, heading)
 // import './js/fetch';
-import './js/fetchCountries.js';
-import './styles/styles.css';
+
 // import { alert, defaultModules } from '@pnotify/core';
 // import '@pnotify/core/dist/PNotify.css';
 // import * as PNotifyMobile from '@pnotify/mobile';
